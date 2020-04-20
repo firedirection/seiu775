@@ -57,6 +57,12 @@ nav a{
     font-family:Verdana,Tahoma,sans-serif;
 }
 
+
+ul li a{
+    color:#fff;
+}
+
+
 nav a:hover{
 	color:#fff;
 	background:#FFDC00;
@@ -67,3 +73,13 @@ nav a:hover{
 .navbar-toggler-icon {
     background-color:#FFDC10;
 }
+
+
+.hero{
+	background: url(../images/hero_image.jpg);
+	background-size:auto;
+      background-repeat:no-repeat;
+/*	background-position:center center;*/
+	height:100vh;
+}
+
